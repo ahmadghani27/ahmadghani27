@@ -14,8 +14,6 @@ Saya suka mempelajari **arsitektur sistem**, **protokol keamanan**, dan **pipeli
 - **Security Projects:** simulasi penetrasi dan hardening sistem  
 -->
 
-## 📊 Statistik Profil
-
 ![GitHub followers](https://img.shields.io/github/followers/AEG?style=flat-square&label=Followers&color=00F0FF)  
 ![GitHub repos](https://img.shields.io/badge/Repos-0-blue?style=flat-square)  
 ![GitHub stars](https://img.shields.io/badge/Stars-0-cyan?style=flat-square)  
