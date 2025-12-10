@@ -13,11 +13,12 @@ Saya suka mempelajari **arsitektur sistem**, **protokol keamanan**, dan **pipeli
 - **Cloud Experiments:** eksperimen dengan AWS, Docker, dan CI/CD  
 - **Security Projects:** simulasi penetrasi dan hardening sistem  
 -->
-
+<!--
 ![GitHub followers](https://img.shields.io/github/followers/AEG?style=flat-square&label=Followers&color=00F0FF)  
 ![GitHub repos](https://img.shields.io/badge/Repos-0-blue?style=flat-square)  
 ![GitHub stars](https://img.shields.io/badge/Stars-0-cyan?style=flat-square)  
 ![GitHub forks](https://img.shields.io/badge/Forks-0-purple?style=flat-square)  
+-->
 ![Profile views](https://komarev.com/ghpvc/?username=AEG&style=flat-square&color=54E3FF)
 
 ---
