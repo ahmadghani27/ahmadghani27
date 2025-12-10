@@ -1,11 +1,30 @@
-# Hai, saya AEG
+# AEG – Cybersecurity & DevOps Enthusiast
 
-Penggemar teknologi dengan fokus di **Cybersecurity, DevOps, dan Cloud Engineering**. Senang mengulik sistem, membangun pipeline otomatis, dan menjaga infrastruktur digital tetap aman dan efisien.
+Selamat datang! Saya seorang **penggemar teknologi** yang senang mengeksplor **cybersecurity**, **DevOps**, dan **cloud engineering**. Fokus saya adalah membangun sistem yang **aman, efisien, dan otomatis**.
 
-## Sedikit Tentang Saya
-Suka belajar hal baru, bereksperimen dengan proyek nyata, dan mengikuti tren teknologi terbaru. Tujuan utama: **solusi yang aman, scalable, dan mudah dipelihara**.
+---
 
-## Portfolio Singkat
-Repositori ini berisi proyek-proyek yang sedang saya kerjakan, mulai dari automation scripts, aplikasi kecil, hingga eksperimen cloud & security. Semua ditulis rapi, modular, dan siap dijadikan referensi.
+## 🔹 Tentang Saya
+Saya suka mempelajari **arsitektur sistem**, **protokol keamanan**, dan **pipeline otomatisasi**. Selain coding, saya juga aktif mengikuti **kompetisi cyber** dan bereksperimen dengan **cloud tools**.  
 
-Terima kasih sudah mampir, semoga ada yang menarik untuk dipelajari atau diinspirasi.
+---
+
+## 🔹 Proyek & Portfolio
+- **Automation Scripts:** mempermudah proses rutin dan deploy aplikasi  
+- **Cloud Experiments:** eksperimen dengan AWS, Docker, dan CI/CD  
+- **Security Projects:** simulasi penetrasi dan hardening sistem  
+
+Semua proyek saya dibuat **modular, rapi, dan mudah dipelajari**.
+
+---
+
+## 📊 Statistik Profil
+
+![GitHub followers](https://img.shields.io/github/followers/AEG?style=flat-square&label=Followers&color=00F0FF)  
+![GitHub repos](https://img.shields.io/github/repos/AEG?style=flat-square&label=Repos&color=54E3FF)  
+![GitHub stars](https://img.shields.io/github/stars/AEG?style=flat-square&label=Stars&color=7000FF)  
+![GitHub forks](https://img.shields.io/github/forks/AEG?style=flat-square&label=Forks&color=FF70A6)  
+
+---
+
+Terima kasih sudah mampir! Semoga repositori ini bisa menjadi inspirasi, referensi, dan sumber belajar bagi teman-teman yang ingin eksplor dunia teknologi.
