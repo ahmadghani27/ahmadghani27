@@ -1,3 +1,4 @@
+[random value]: ahmadghani27
 <!-- # AEG – Cybersecurity & DevOps Enthusiast
 
 Selamat datang! Saya seorang **penggemar teknologi** yang senang mengeksplor **cybersecurity**, **DevOps**, dan **cloud engineering**. Fokus saya adalah membangun sistem yang **aman, efisien, dan otomatis**.
@@ -19,8 +20,13 @@ Saya suka mempelajari **arsitektur sistem**, **protokol keamanan**, dan **pipeli
 ![GitHub stars](https://img.shields.io/badge/Stars-0-cyan?style=flat-square)  
 ![GitHub forks](https://img.shields.io/badge/Forks-0-purple?style=flat-square)  
 -->
-![Profile views](https://komarev.com/ghpvc/?username=AEG&style=flat-square&color=54E3FF)
+<!--![GitHub Stats](https://ghstats.dev/api/card?username=ahmadghani27) -->
+![Profile views](https://komarev.com/ghpvc/?username=ahmadghani27&style=flat-square&color=54E3FF)
 
 ---
 Terima kasih sudah mampir! 
-<!-- Semoga repositori ini bisa menjadi inspirasi, referensi, dan sumber belajar bagi teman-teman yang ingin eksplor dunia teknologi.
+<!-- Semoga repositori ini bisa menjadi inspirasi, referensi, dan sumber belajar bagi teman-teman yang ingin eksplor dunia teknologi. -->
+---
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ahmadghani27&theme=tokyonight&hide_title=true&border_radius=4&size=compact&show_emoji=true)
+<br>
+![Top Languages](https://ghstats.dev/api/langs?username=ahmadghani27&theme=tokyonight&hide_title=true&max_langs=4&layout=grid)
