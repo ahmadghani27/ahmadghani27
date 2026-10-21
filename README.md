@@ -1,32 +1,30 @@
 [random value]: ahmadghani27
-<!-- # AEG – Cybersecurity & DevOps Enthusiast
-
-Selamat datang! Saya seorang **penggemar teknologi** yang senang mengeksplor **cybersecurity**, **DevOps**, dan **cloud engineering**. Fokus saya adalah membangun sistem yang **aman, efisien, dan otomatis**.
+<h1 align="center">Haii 😎</h1>
+<p ><b>I'm an IT student driven by a core curiosity about how systems run behind the scenes</b></p>
+<p>This profile serves as my practical workbench. Here, you'll find my hands-on experiments across cloud automation, Infrastructure as Code, web applications, and security challenge writeups. I use this space to document what I build, break, and optimize as I dive deeper into cloud architecture, DevOps workflows, and cybersecurity.</p>
 
 ---
-
-## 🔹 Tentang Saya
-Saya suka mempelajari **arsitektur sistem**, **protokol keamanan**, dan **pipeline otomatisasi**. Selain coding, saya juga aktif mengikuti **kompetisi cyber** dan bereksperimen dengan **cloud tools**.  
-
 <!--
-## 🔹 Proyek & Portfolio
-- **Automation Scripts:** mempermudah proses rutin dan deploy aplikasi  
-- **Cloud Experiments:** eksperimen dengan AWS, Docker, dan CI/CD  
-- **Security Projects:** simulasi penetrasi dan hardening sistem  
+### What You'll Find Here
+
+- **Infrastructure & Automation:** Cloud lab setups, Terraform configurations, and CI/CD pipelines.
+- **Development Projects:** Full-stack and web app experiments built during developer tracks and workshops.
+- **Security & Analysis:** CTF solutions, web security notes, and practical security testing setups.
+
 -->
-<!--
-![GitHub followers](https://img.shields.io/github/followers/AEG?style=flat-square&label=Followers&color=00F0FF)  
-![GitHub repos](https://img.shields.io/badge/Repos-0-blue?style=flat-square)  
-![GitHub stars](https://img.shields.io/badge/Stars-0-cyan?style=flat-square)  
-![GitHub forks](https://img.shields.io/badge/Forks-0-purple?style=flat-square)  
--->
-<!--![GitHub Stats](https://ghstats.dev/api/card?username=ahmadghani27) -->
-![Profile views](https://komarev.com/ghpvc/?username=ahmadghani27&style=flat-square&color=54E3FF)
+
+Thanks for come here :)
 
 ---
-Terima kasih sudah mampir! 
-<!-- Semoga repositori ini bisa menjadi inspirasi, referensi, dan sumber belajar bagi teman-teman yang ingin eksplor dunia teknologi. -->
----
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ahmadghani27&theme=tokyonight&hide_title=true&border_radius=4&size=compact&show_emoji=true)
-<br>
-![Top Languages](https://ghstats.dev/api/langs?username=ahmadghani27&theme=tokyonight&hide_title=true&max_langs=4&layout=grid)
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=ahmadghani27&theme=tokyonight&hide_title=true&border_radius=4&size=compact&show_emoji=true" width="49%" />
+  <img src="https://ghstats.dev/api/langs?username=ahmadghani27&theme=tokyonight&hide_title=true&max_langs=4&layout=grid" width="49%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AEG?style=flat-square&label=Followers&color=00F0FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Repos-0-blue?style=flat-square" alt="GitHub repos" />
+  <img src="https://img.shields.io/badge/Stars-0-cyan?style=flat-square" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Forks-0-purple?style=flat-square" alt="GitHub forks" />
+  <img src="https://komarev.com/ghpvc/?username=ahmadghani27&style=flat-square&color=54E3FF" alt="Profile views" />
+</p>
