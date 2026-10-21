@@ -1,7 +1,7 @@
 [random value]: ahmadghani27
 <h1 align="center">Haii 😎</h1>
 <p ><b>I'm an IT student driven by a core curiosity about how systems run behind the scenes</b></p>
-<p>This profile serves as my practical workbench. Here, you'll find my hands-on experiments across cloud automation, Infrastructure as Code, web applications, and security challenge writeups. I use this space to document what I build, break, and optimize as I dive deeper into cloud architecture, DevOps workflows, and cybersecurity.</p>
+<p>This profile serves as my practical workbench and I use this space to document what I build, break, and optimize as I dive deeper into cloud architecture, DevOps workflows, and cybersecurity.</p>
 
 ---
 <!--
