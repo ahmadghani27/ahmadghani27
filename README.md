@@ -26,5 +26,4 @@ Thanks for come here :)
   <img src="https://img.shields.io/badge/Repos-0-blue?style=flat-square" alt="GitHub repos" />
   <img src="https://img.shields.io/badge/Stars-0-cyan?style=flat-square" alt="GitHub stars" />
   <img src="https://img.shields.io/badge/Forks-0-purple?style=flat-square" alt="GitHub forks" />
-  <img src="https://komarev.com/ghpvc/?username=ahmadghani27&style=flat-square&color=54E3FF" alt="Profile views" />
 </p>
